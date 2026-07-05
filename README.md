@@ -32,8 +32,8 @@ The dataset includes historical sales records across multiple retail outlets, wi
 This chart showes the relationship between the retail price for the products compared with their sales,  There a positive correlation, higher price, HIGHER sales
 
 ### Insight 2
-<img width="589" height="390" alt="image" src="https://github.com/user-attachments/assets/19ba1ec6-681a-4df5-
-  aa1d-331d0a2b9071" />
+<img width="589" height="390" alt="image" src="https://github.com/user-attachments/assets/6c0cdd6a-ae23-4913-953a-5537b6c7d3a2" />
+
 
 this figure copare the oultlet type with with sales. Its obvious that Supermarket type 3 has the highest sales among all types of oulets
 
