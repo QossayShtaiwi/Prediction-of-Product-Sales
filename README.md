@@ -42,6 +42,7 @@ this figure copare the oultlet type with with sales. Its obvious that Supermarke
 
 ## Model
 
+Random Forest Regression models vs Linear Regression Model
 The final model selected explains roughly **60% of the variation in outlet sales** (R² = 0.595 on unseen test data), and its typical prediction is within about **$734** of actual sales figures (Mean Absolute Error). 
 
 ## Limitations & Next Steps
