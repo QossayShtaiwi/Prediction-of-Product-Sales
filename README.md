@@ -22,6 +22,7 @@ The dataset includes historical sales records across multiple retail outlets, wi
 ### Preprocessing 
 - Cleaned missing values in key fields using imputation with median for numerical feature and moset frequent in catigorical ones.
 - Encoded categorical features for use in modeling.
+- Fit and Transform
 - Tested multiple regression approaches with varying levels of model 
   complexity and regularization, selecting the final model based on test 
   set performance and generalization stability (not just training fit).
