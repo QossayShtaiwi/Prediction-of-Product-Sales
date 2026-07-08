@@ -11,15 +11,17 @@ The dataset includes historical sales records across multiple retail outlets, wi
 
 ## Methods
 
-- Cleaned missing values in key fields (e.g., product weight, outlet size) 
-  using imputation with median for numerical feature and moset frequent in catigorical ones.
+- Exploration of the data and identifying the features (8523 entries, 12 columns)
 - Dropping duplicated values
 - Standardized inconsistent category labels (e.g., merging duplicate fat 
   content labels).
-- Encoded categorical features (outlet type, location, product category) 
-  for use in modeling.
+- Identifying the target feature. 
 - Split data into training and test sets to evaluate how well the model 
   generalizes to unseen data.
+  
+### Preprocessing 
+- Cleaned missing values in key fields using imputation with median for numerical feature and moset frequent in catigorical ones.
+- Encoded categorical features for use in modeling.
 - Tested multiple regression approaches with varying levels of model 
   complexity and regularization, selecting the final model based on test 
   set performance and generalization stability (not just training fit).
